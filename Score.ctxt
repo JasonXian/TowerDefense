@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Display's\ the\ player's\ score\r\n\ \r\n\ @Jason\ Xian\r\n\ @May\ 30\r\n
+comment1.params=initScore
+comment1.target=Score(int)
+comment2.params=amount
+comment2.target=void\ setScore(int)
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
