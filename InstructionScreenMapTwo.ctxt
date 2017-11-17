@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=InstructionScreenMapTwo
-comment0.text=\r\n\ Displays\ the\ second\ Instruction\ map\ screen,\ explains\ the\ tower\ buying,\ lobster\ spawning,\ objective\r\n\ \r\n\ @Jason\ Xian\r\n\ @June\ 6\r\n
-comment1.params=
-comment1.target=InstructionScreenMapTwo()
-comment2.params=
-comment2.target=void\ act()
-numComments=3

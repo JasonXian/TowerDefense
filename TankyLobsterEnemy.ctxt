@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=TankyLobsterEnemy
-comment0.text=\r\n\ Values\ and\ image\ for\ the\ fast\ lobster\ enemy\r\n\ \r\n\ @Jason\ Xian\r\n\ @June\ 6\r\n
-comment1.params=initX\ initY\ initHealth\ initMoveSpeed
-comment1.target=TankyLobsterEnemy(int,\ int,\ int,\ int)
-numComments=2

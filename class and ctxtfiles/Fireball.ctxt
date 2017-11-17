@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Fireball
+comment0.text=\r\n\ Methods\ and\ attributes\ for\ the\ fireball\ object\r\n\ \r\n\ @Jason\ Xian\ \r\n\ @June\ 6\r\n
+comment1.params=initX\ initY\ initSpeed\ initLobsterNum\ initLobsterType
+comment1.target=Fireball(int,\ int,\ int,\ int,\ int)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Money
+comment0.text=\r\n\ Displays\ and\ keeps\ track\ of\ the\ player's\ money\r\n\ \r\n\ @Jason\ Xian\r\n\ @May\ 30\r\n
+comment1.params=initMoney
+comment1.target=Money(int)
+comment2.params=amount
+comment2.target=void\ setMoney(int)
+comment3.params=
+comment3.target=int\ getMoney()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

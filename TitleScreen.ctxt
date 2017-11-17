@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=TitleScreen
-comment0.text=\r\n\ Displays\ the\ Title\ Screen\r\n\ \r\n\ @Jason\ Xian\r\n\ @June\ 6\r\n
-comment1.params=
-comment1.target=TitleScreen()
-comment2.params=
-comment2.target=void\ act()
-numComments=3

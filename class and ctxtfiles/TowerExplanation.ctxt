@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TowerExplanation
+comment0.text=\r\n\ Displays\ the\ information\ explaining\ all\ of\ the\ towers\r\n\ \r\n\ @Jason\ Xian\r\n\ @June\ 6\r\n
+comment1.params=
+comment1.target=TowerExplanation()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,29 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+import java.awt.Color;
+
+/**
+ * Display's the prices of all towers
+ * 
+ * @Jason Xian
+ * @May 30
+ */
+
+public class My extends Actor{
+    private int money = 100;
+    
+    public Money(){
+        setImage(new GreenfootImage("Money:$ " + money, 50, Color.BLACK, Color.WHITE));
+    }
+    
+    public void moneyChange(int amount){
+        money += amount;
+    }
+    
+    public int getMoney(){
+        return money;
+    }
+    
+    public void act() {
+        setImage(new GreenfootImage("Money:$ " + money, 50, Color.BLACK, Color.WHITE));
+    }    
+}

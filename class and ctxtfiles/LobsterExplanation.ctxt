@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LobsterExplanation
+comment0.text=\r\n\ Displays\ the\ explanation\ of\ the\ different\ types\ of\ lobsters\r\n\ \r\n\ @Jason\ Xian\r\n\ @June\ 6\r\n
+comment1.params=
+comment1.target=LobsterExplanation()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
